@@ -1,5 +1,8 @@
 <!-- THE MAIN WIDE HEADER BANNER -->
-<img src="REPLACE_WITH_THE_WIDE_BANNER_IMAGE_LINK" width="100%" alt="twelfthOwlet Header Banner">
+
+<div style="width: 100%; height: 100px; background: url('your-image.jpg') no-repeat center center; background-size: cover;">
+  <img src="owlet31114747-1ce8-49e2-b787-ee759dccaebe.png" width="70" alt="twelfthOwlet Header Banner">
+</div>
 
 # Give-A-Hoot 🦉
 
@@ -8,7 +11,7 @@ An aficionado of technological security, defense, mechanics, music, electronics,
 ---
 
 <!-- THE SUB-BANNER WITH THE OWL EYE AND '12th' -->
-<img src="REPLACE_WITH_THE_OWL_EYE_BANNER_IMAGE_LINK" width="100%" alt="12th Owl Sub-Banner">
+<img src="owlet31114747-1ce8-49e2-b787-ee759dccaebe.png" width="250" alt="12th Owl Sub-Banner">
 
 > *This site seems geared toward coding or CI/CD typical scenarios for which my universe is devoid... for now.* 
 
