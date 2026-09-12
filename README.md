@@ -23,4 +23,6 @@ Check out my primary repository: **[Give-A-Hoot](https://github.com/twelfthOwlet
 ---
 
 <!-- THE INTERNAL-NEST CIRCUITRY GRAPHIC -->
-<img src="https://github.com/twelfthOwlet/twelfthOwlet/blob/main/Gemini_Generated_Image_nr3g4fnr3g4fnr3g.jpeg" width="150" alt="Internal-Nest Circuitry">
+ <p align="left">
+    <img src="owlet31114747-1ce8-49e2-b787-ee759dccaebe.png" width="100%" height="180" alt="twelfthOwlet Header Banner">
+  </p>
