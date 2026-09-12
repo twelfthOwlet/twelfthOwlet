@@ -21,4 +21,4 @@ Check out my primary repository: **[Give-A-Hoot](https://github.com/twelfthOwlet
 ---
 
 <!-- THE INTERNAL-NEST CIRCUITRY GRAPHIC -->
-<img src="REPLACE_WITH_THE_CIRCUITRY_GRAPHIC_LINK" width="100%" alt="Internal-Nest Circuitry">
+<img src="https://github.com/twelfthOwlet/twelfthOwlet/blob/main/Gemini_Generated_Image_nr3g4fnr3g4fnr3g.jpeg" width="150" alt="Internal-Nest Circuitry">
