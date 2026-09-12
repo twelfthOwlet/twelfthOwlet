@@ -24,5 +24,5 @@ Check out my primary repository: **[Give-A-Hoot](https://github.com/twelfthOwlet
 
 <!-- THE INTERNAL-NEST CIRCUITRY GRAPHIC -->
  <p align="left">
-    <img src="owlet31114747-1ce8-49e2-b787-ee759dccaebe.png" width="100%" height="180" alt="twelfthOwlet Header Banner">
+    <img src="https://github.com/twelfthOwlet/twelfthOwlet/blob/main/owlflip2.png?raw=true" width="100%" height="180" alt="twelfthOwlet Header Banner">
   </p>
